@@ -1,4 +1,4 @@
-# PADME App
+# PADME Android App
 This repository links to the source code (on Software Heritage) of the Android application "PADME App" and its server side data handling PHP scripts. It was developed by me (David REI) during my PhD thesis from September 2019 to March 2024.
 
 Link to Software Heritage : https://archive.softwareheritage.org/browse/directory/10756b8a68bab1e2b40461190f98ad49c6a98421
