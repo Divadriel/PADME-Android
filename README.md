@@ -47,6 +47,7 @@ The code can be built and run directly in Android Studio, but may need a physica
 
 ## License
 [CeCILL-B](http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.html) English version.
+
 [CeCILL-B](http://www.cecill.info/licences/Licence_CeCILL-B_V1-fr.html) French version.
 
 Both license versions are provided with the archive, in the same file.
